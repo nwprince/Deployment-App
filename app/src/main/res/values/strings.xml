@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ok">Ok</string>
+    <string name="msg_error">You do not have flashlight support</string>
+    <string name="on">Turn on</string>
+    <string name="off">Turn off</string>
+</resources>

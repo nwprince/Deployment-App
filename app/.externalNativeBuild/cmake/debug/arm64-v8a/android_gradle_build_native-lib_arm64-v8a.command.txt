@@ -1,0 +1,8 @@
+Executable : /home/nwprince/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+--build
+/home/nwprince/AndroidStudioProjects/MyApplication2/app/.externalNativeBuild/cmake/debug/arm64-v8a
+--target
+native-lib
+jvmArgs : 
+
